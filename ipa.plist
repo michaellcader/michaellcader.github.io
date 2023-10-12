@@ -16,13 +16,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                     <string>com.webank.cfa123</string>
+                     <string>com.xmbankonline.sjyhemba</string>
                      <key>bundle-version</key>
                     <string>2.1.12</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>点我安装赠送888元厦门银行话费</string>
+                    <string>点我安装赠送999元厦门银行话费</string>
                 </dict>
             </dict>
         </array>
