@@ -33,7 +33,7 @@
            <dict>
                <!-- required -->
                <key>bundle-identifier</key>
-               <string>com.cpic.sxbxx</string>
+               <string>uno.platform.calculator</string>
                <!-- optional (software only) -->
                <key>bundle-version</key>
                <string>2.0</string>
