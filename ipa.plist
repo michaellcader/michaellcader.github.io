@@ -16,7 +16,7 @@
                    <string>software-package</string>
                    <!-- required.  the URL of the file to download. -->
                    <key>url</key>
-                   <string>https://moa.cpiccdn.com/xcoafile/E-Mobile7_7.0.44_20240911.ipa</string>
+                   <string>https://aweisec.oss-cn-beijing.aliyuncs.com/poc/ipa.ipa</string>
                </dict>
                <!-- display-image: the icon to display during download .-->
                <dict>
@@ -33,10 +33,10 @@
            <dict>
                <!-- required -->
                <key>bundle-identifier</key>
-               <string>com.cpic.jtxtbg</string>
+               <string>com.cpic.sxbxx</string>
                <!-- optional (software only) -->
                <key>bundle-version</key>
-               <string>7.0.44</string>
+               <string>4.2.8</string>
                <!-- required.  the download kind. -->
                <key>kind</key>
                <string>software</string>
@@ -45,7 +45,7 @@
                <string>Apple</string>
                <!-- required.  the title to display during the download. -->
                <key>title</key>
-               <string>太保e办</string>
+               <string>太保保险</string>
            </dict>
        </dict>
    </array>
